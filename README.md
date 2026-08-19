@@ -246,12 +246,4 @@ and understanding how these technologies can be used to create useful, reliable,
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marck0820001\&theme=radical\&hide_border=true\&count_private=true)
-
----
-
 > 🚀 Learning, experimenting, building, and sharing my journey into **AI Engineering and Agentic AI**.
